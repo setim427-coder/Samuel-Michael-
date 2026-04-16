@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I'm Samuel 👋</h1>
+  <p>Welcome to my portfolio website.</p>
+
+  <h2>About Me</h2>
+  <p>I am a student passionate about music and AI.</p>
+
+  <h2>Projects</h2>
+  <p>Coming soon...</p>
+
+  <h2>Contact</h2>
+  <p>Email: yourname@gmail.com</p>
+</body>
+</html>
